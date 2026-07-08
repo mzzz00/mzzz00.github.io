@@ -65201,16 +65201,16 @@ A.wY.prototype={
 M(a){var s=null
 return A.oF(A.d([A.CC(this.c,s,55,55),A.ch(s,s,25),A.cH(this.d,s,s,A.bL(s,s,A.a0(4281874747),s,s,s,s,s,s,s,s,22,s,s,B.b1,s,1.4545454545454546,!0,s,s,s,s,s,s,s,s),s)],t.E),B.aO,B.U,B.b4,0)}}
 A.tt.prototype={
-M(a1){var s,r,q,p,o,n,m,l,k,j,i,h=4294111986,g=null,f=4281874747,e=4283388505,d=u.F,c=A.acP(a1,B.pX),b=A.a0(h),a=A.a0(h),a0=A.kX(1000)
+M(a1){var s,r,q,p,o,n,m,l,k,j,i,h=4294111986,g=null,f=4281874747,e=4284688361,d=u.F,c=A.acP(a1,B.pX),b=A.a0(h),a=A.a0(h),a0=A.kX(1000)
 a0=A.ji(g,A.aea(A.CC("assets/profile.jpg",B.fC,g,g)),new A.dP(B.i,g,g,a0,g,g,B.aM),286,g,g,286)
 s=A.cH("Hi, I'm mzzzzzzzz",g,g,A.bL(g,g,A.a0(f),g,g,g,g,g,g,g,g,22,g,g,B.u,g,1.213,!0,g,g,g,g,g,g,g,g),g)
 r=A.ch(g,20,g)
 q=A.cH("Mobile",g,g,A.bL(g,g,A.a0(e),g,g,g,g,g,g,g,g,70,g,g,B.b2,g,1.0285714285714285,!0,g,g,g,g,g,g,g,g),g)
-p=A.cH("Developer",g,g,A.bL(g,g,A.a0(e),g,g,g,g,g,g,g,g,70,g,g,B.b2,g,1.0285714285714285,!0,g,g,g,g,g,g,g,g),g)
+p=A.cH("Developer",g,g,A.bL(g,g,A.a0(4283388505),g,g,g,g,g,g,g,g,70,g,g,B.b2,g,1.0285714285714285,!0,g,g,g,g,g,g,g,g),g)
 o=A.ch(g,20,g)
 n=A.cH("I'm a frontend developer based in South Korea",g,g,A.bL(g,g,A.a0(f),g,g,g,g,g,g,g,g,22,g,g,B.b1,g,1.213,!0,g,g,g,g,g,g,g,g),g)
 m=A.kX(20)
-l=A.a0(4284688361)
+l=A.a0(e)
 m=A.to(g,A.ch(A.Q0(A.r5(A.cH("Get In Touch",g,g,A.bL(g,g,B.i,g,g,g,g,g,g,g,g,16,g,g,B.u,g,1.213,!0,g,g,g,g,g,g,g,g),g),g,g),new A.dP(l,g,g,m,g,g,B.aM),B.cT),53,156),B.aw,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,new A.SP(a1),g,g,g)
 l=A.adV(A.a0(f))
 k=A.kX(20)
